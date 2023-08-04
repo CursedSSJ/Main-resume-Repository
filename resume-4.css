@@ -1,0 +1,22 @@
+.centerText {
+  text-align: center;
+}
+
+#amandaImg {
+    width: 50%;
+    height: 50%;
+}
+
+body {
+  font-family: Ariel;
+  background: aquamarine;
+  color: darkblue;
+}
+
+.link {
+  color: black;
+}
+
+#linkedinlink {
+    font-size: 2rem;
+}
