@@ -1,0 +1,81 @@
+p {
+  margin: 2rem;
+}
+
+.centerText {
+  text-align: center;
+}
+
+.headerSec {
+  padding: 2rem;
+  margin: 2rem;
+  border: 2px solid #000000;
+  background: #fff8dc;
+  text-align: center;
+}
+
+#amandaImg {
+  border-radius: 100%;
+  width: 20%;
+  height: 20%;
+}
+
+body {
+  font-family: Ariel;
+  background: aquamarine;
+  color: darkblue;
+}
+
+.link {
+  color: black;
+}
+
+#linkedinlink {
+  font-size: 2rem;
+}
+
+#contactForm {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #000000;
+  padding: 2rem;
+  background: #ffffff;
+}
+
+#contactlabel {
+  color: #000000;
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+.formfield {
+  margin-bottom: 1rem;
+  width: 100%;
+  height: 2rem;
+}
+
+#bannerIMG {
+  width: 100%;
+}
+
+#bannerIntro {
+  width: 100%;
+}
+
+#herobanner {
+  text-align: center;
+  background-image: url(rugbyfield.jpg);
+  background-size: cover;
+  padding: 30px;
+}
+
+.bannerIntroTxt {
+  font-size: 2rem;
+  font-weight: bold;
+  color: black;
+}
